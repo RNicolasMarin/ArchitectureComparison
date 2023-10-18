@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ArchitectureComparison</string>
+    <string name="text_view_info">How do you tell the age of someone from their name? Well, here is a fun little App that uses the Agify API to do that. Give it a try.</string>
+    <string name="edit_text_name_hint">Enter a name</string>
+    <string name="button_predict_age">Predict Age</string>
+    <string name="text_view_age_prediction_label">The Agify API prediction is:</string>
+    <string name="text_view_age_prediction_name">Nicolas</string>
+    <string name="text_view_age_prediction_age">45</string>
+    <string name="text_view_age_prediction_error">There\'s been an error, try again</string>
 </resources>
